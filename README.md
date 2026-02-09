@@ -2,7 +2,9 @@
 ![Andri Ardiansyah](./img/gh_banner.png)
 
 #### Portofolio
-[click my protofolio](https://ardiansyah0293.github.io)
+
+> [! IMPORTANT]
+> [click my protofolio](https://ardiansyah0293.github.io).
 
 #### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,5 +23,47 @@
 #### 📫 Reach Me 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"> ](https://www.instagram.com/ardiansyah0293/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">](https://www.linkedin.com/in/andri-ardiansyah-090852124/)
+
+#### 💻 Recent Projects
+> ##### 1. Among Tani Crop
+        > - Web app untuk petani, umkm dan produsen lokal. 
+        > - Fitur : Managemen user, chat interaktif, upload keluhan, managemen keluhan, media informasi
+        > - Tech stack : php (laravel), mysql
+
+> ##### 2. AI Detection Web & Mobile
+        > - Web app untuk membuat deteksi mengenai hama penyakit tanaman dengan bantuan artificial inteligence.
+        > - Tech stack : php (laravel), mysql, dart (flutter))
+
+> ##### 3. Innovation Page Builder
+        > - Web app untuk membuat landing page sederhana pada setiap inovasi yang dibuat oleh pemerintah dan masyarakat.
+        > - Tech stack : php (laravel), mysql
+
+> ##### 4. Tepat
+        > - Web app untuk pengaduan petani tentang masalah teknis
+        > - Tech stack : php (laravel), mysql
+
+> ##### 5. Sartani
+        > - Web app untuk katalog produk umkm dan kelompok wanita tani
+        > - Tech stack : php (laravel), mysql
+
+> ##### 6. Digisip
+        > - Web app untuk digitalisasi arsip dan register surat otomatis
+        > - Tech stack : php (laravel), mysql
+
+> ##### 7. Crop
+        > - Web app untuk menghubungkan antara pemerintah, petugas lapangan dan petani dalam hal penanganan hama penyakit tanaman.
+        > - Tech stack : php (laravel), mysql
+
+> ##### 8. Tajuk Tani
+        > - Web app untuk konten / media pertanian
+        > - Tech stack : php (codeigniter), mysql
+
+> ##### 9. TPP Daily
+        > - Web app untuk posting pekerjaan lapangan.
+        > - Tech stack : php (native), mysql
+
+> ##### 10. Si Firda
+        > - Web app untuk pelaporan bencana
+        > - Tech stack : php (native), mysql
 
 [def]: ./img/gh_banner.png
